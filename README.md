@@ -9,3 +9,6 @@
     - Add an entry to the pg_hba.conf file:
     TYPE    DATABASE        USER            ADDRESS       METHOD
     host    budget_boys     your_username   IP Address    md5
+
+# Testing Project IDX workflow
+    - So does this know that I'm pushing to the repo and if so I don't understand how thats working. 
