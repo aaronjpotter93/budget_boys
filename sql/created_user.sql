@@ -1,0 +1,6 @@
+CREATE USER python WITH PASSWORD 'python';
+
+GRANT ALL PRIVILEGES ON DATABASE budget_boys TO python;
+
+GRANT ALL PRIVILEGES ON TABLE transactions TO python;
+
