@@ -13,7 +13,7 @@ conn = psycopg2.connect(
 cursor = conn.cursor()
 
 # Example: Query data
-cursor.execute('SELECT * FROM transactions')
+cursor.execute('SELECT * FROM all_transactions')
 rows = cursor.fetchall()
 for row in rows:
     print(row)
