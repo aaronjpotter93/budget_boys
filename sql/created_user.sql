@@ -4,3 +4,5 @@ GRANT ALL PRIVILEGES ON DATABASE budget_boys TO python;
 
 GRANT ALL PRIVILEGES ON TABLE transactions TO python;
 
+GRANT CREATE ON SCHEMA public TO python;
+

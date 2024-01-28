@@ -1,0 +1,102 @@
+[
+    {
+        "Transaction Date": "01/31/2023",
+        "Clearing Date": "01/31/2023",
+        "Description": "ACH DEPOSIT INTERNET TRANSFER FROM ACCOUNT ENDING IN 0617",
+        "Merchant": "Ach Deposit Internet Transfer",
+        "Category": "Payment",
+        "Type": "Payment",
+        "Amount (USD)": -576.85,
+        "Purchased By": "Aaron Potter"
+    },
+    {
+        "Transaction Date": "01/29/2023",
+        "Clearing Date": "01/31/2023",
+        "Description": "TACO BELL #030443 6560 N. LINDER RD. EAGLE 83616 ID USA",
+        "Merchant": "Taco Bell",
+        "Category": "Restaurants",
+        "Type": "Purchase",
+        "Amount (USD)": 21.78,
+        "Purchased By": "Aaron Potter"
+    },
+    {
+        "Transaction Date": "01/28/2023",
+        "Clearing Date": "01/29/2023",
+        "Description": "STEAMGAMES.COM 425952210900 NE 4TH ST, STE 500 BELLEVUE 98004 WA USA",
+        "Merchant": "Steamgames.com 4259522",
+        "Category": "Other",
+        "Type": "Purchase",
+        "Amount (USD)": 63.59,
+        "Purchased By": "Aaron Potter"
+    },
+    {
+        "Transaction Date": "01/28/2023",
+        "Clearing Date": "01/28/2023",
+        "Description": "MCDONALD'S F33785 1460 W CHINDEN BLVD MERIDIAN 83646 ID USA",
+        "Merchant": "McDonald's",
+        "Category": "Restaurants",
+        "Type": "Purchase",
+        "Amount (USD)": 15.44,
+        "Purchased By": "Aaron Potter"
+    },
+    {
+        "Transaction Date": "01/27/2023",
+        "Clearing Date": "01/27/2023",
+        "Description": "ERENTERPLAN.COM 2201 LAKESIDE BLVD 8885124204 75082 TX USA",
+        "Merchant": "erenterplan.com",
+        "Category": "Insurance",
+        "Type": "Purchase",
+        "Amount (USD)": 93,
+        "Purchased By": "Aaron Potter"
+    },
+    {
+        "Transaction Date": "01/26/2023",
+        "Clearing Date": "01/27/2023",
+        "Description": "CHICK-FIL-A #03084 3600 FAIRVIEW AVE MERIDIAN 83642 ID USA",
+        "Merchant": "Chick-fil-A",
+        "Category": "Restaurants",
+        "Type": "Purchase",
+        "Amount (USD)": 18.53,
+        "Purchased By": "Aaron Potter"
+    },
+    {
+        "Transaction Date": "01/21/2023",
+        "Clearing Date": "01/26/2023",
+        "Description": "AMZN MKTP US*HK1Q48833440 TERRY AVE N AMZN.COM/BILL98109 WA USA",
+        "Merchant": "Amazon Payments",
+        "Category": "Other",
+        "Type": "Purchase",
+        "Amount (USD)": 8.11,
+        "Purchased By": "Aaron Potter"
+    },
+    {
+        "Transaction Date": "01/25/2023",
+        "Clearing Date": "01/26/2023",
+        "Description": "SHELL OIL10005385017 8990 W OVERLAND RD BOISE 83709 ID USA",
+        "Merchant": "Shell",
+        "Category": "Gas",
+        "Type": "Purchase",
+        "Amount (USD)": 28.03,
+        "Purchased By": "Aaron Potter"
+    },
+    {
+        "Transaction Date": "01/22/2023",
+        "Clearing Date": "01/23/2023",
+        "Description": "CORTLAND AT TEN MIL 3800 W PERUGIA ST MERIDIAN 83642 ID USA",
+        "Merchant": "Cortland At Ten Mil",
+        "Category": "Other",
+        "Type": "Purchase",
+        "Amount (USD)": 127,
+        "Purchased By": "Aaron Potter"
+    },
+    {
+        "Transaction Date": "01/21/2023",
+        "Clearing Date": "01/22/2023",
+        "Description": "TACO BELL #030443 6560 N. LINDER RD. EAGLE 83616 ID USA",
+        "Merchant": "Taco Bell",
+        "Category": "Restaurants",
+        "Type": "Purchase",
+        "Amount (USD)": 18,
+        "Purchased By": "Aaron Potter"
+    }
+]
