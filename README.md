@@ -9,3 +9,7 @@
     - Add an entry to the pg_hba.conf file:
     TYPE    DATABASE        USER            ADDRESS       METHOD
     host    budget_boys     your_username   IP Address    md5
+
+# Testing Project IDX workflow
+    - So does this know that I'm pushing to the repo and if so I don't understand how thats working. 
+    - Ok now I see how its working. I was able to pull the repo branch without authenticating because the repo is public. but commiting and pushing needed me to authenticate with my github account.
