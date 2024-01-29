@@ -1,4 +1,5 @@
-# budget_boys
+# Budget Boys
+Welcome to Budget Boys, the budgeting application that frees you from the constraints of one-size-fits-all financial tools. We believe in a dynamic approach to financial literacy, and Budget Boys is crafted to provide the utmost flexibility paired with a neural network that adapts to your unique organizational preferences.
 
 # Transaction Management Ideas:
     - Selecting a category and choosing all the transactions that belong to that category
