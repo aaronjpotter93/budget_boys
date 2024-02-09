@@ -2,7 +2,7 @@ import json
 from plaid.api import Client
 from plaid.errors import PlaidError
 
-client = Client(client_id='65c6ab809e7d58001ca92ac8', secret='976dc006855e568188aa73e3d82638', environment='sandbox')
+client = Client(client_id='id', secret='secret', environment='sandbox')
 
 # Create a link token
 try:
